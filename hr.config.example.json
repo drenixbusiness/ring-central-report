@@ -1,0 +1,19 @@
+{
+  "hrs": [
+    {
+      "extensionId": "000000001",
+      "name": "HR Example One",
+      "phoneNumber": "+10000000001",
+      "reportStartDate": "2026-10-01",
+      "reportEndDate": null
+    },
+    {
+      "extensionId": "000000002",
+      "name": "HR Example Two",
+      "phoneNumber": "+10000000002",
+      "reportStartDate": "2026-10-01",
+      "reportEndDate": "2026-12-31",
+      "enabled": true
+    }
+  ]
+}

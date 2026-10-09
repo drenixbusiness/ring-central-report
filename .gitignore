@@ -1,0 +1,12 @@
+node_modules/
+.env
+.env.*
+!.env.example
+hr.config.json
+secrets/
+*.json.key
+data/
+logs/
+*.sqlite
+*.sqlite-wal
+*.sqlite-shm
